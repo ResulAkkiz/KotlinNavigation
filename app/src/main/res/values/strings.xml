@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_second_fragment">Go Second Fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="go_f_rst_fragment">Go Fırst Fragment</string>
+</resources>
